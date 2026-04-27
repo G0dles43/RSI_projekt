@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Dane projektu (nie chcemy cudzych PDFów na gicie)
+server_python/data/*.pdf
+server_python/data/*.jpg
+server_python/data/*.png
+
+# IDE
+.vscode/
+.idea/

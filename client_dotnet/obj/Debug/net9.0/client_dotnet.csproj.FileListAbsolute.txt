@@ -1,0 +1,6 @@
+C:\Users\barte\Desktop\programowanie\projektzpi\client_dotnet\obj\Debug\net9.0\client_dotnet.csproj.AssemblyReference.cache
+C:\Users\barte\Desktop\programowanie\projektzpi\client_dotnet\obj\Debug\net9.0\client_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Desktop\programowanie\projektzpi\client_dotnet\obj\Debug\net9.0\client_dotnet.AssemblyInfoInputs.cache
+C:\Users\barte\Desktop\programowanie\projektzpi\client_dotnet\obj\Debug\net9.0\client_dotnet.AssemblyInfo.cs
+C:\Users\barte\Desktop\programowanie\projektzpi\client_dotnet\obj\Debug\net9.0\client_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\programowanie\projektzpi\client_dotnet\obj\Debug\net9.0\client_dotnet.sourcelink.json

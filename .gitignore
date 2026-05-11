@@ -9,6 +9,7 @@ venv/
 server_python/data/*.pdf
 server_python/data/*.jpg
 server_python/data/*.png
+raporty/*.pdf
 
 # IDE
 .vscode/

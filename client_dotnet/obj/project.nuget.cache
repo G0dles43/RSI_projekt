@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "sOK/J4+YeE8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\barte\\Desktop\\programowanie\\projektzpi\\client_dotnet\\client_dotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barte\\.nuget\\packages\\microsoft.extensions.objectpool\\8.0.10\\microsoft.extensions.objectpool.8.0.10.nupkg.sha512",
+    "C:\\Users\\barte\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
+    "C:\\Users\\barte\\.nuget\\packages\\system.security.cryptography.xml\\8.0.2\\system.security.cryptography.xml.8.0.2.nupkg.sha512",
+    "C:\\Users\\barte\\.nuget\\packages\\system.servicemodel.duplex\\6.0.0\\system.servicemodel.duplex.6.0.0.nupkg.sha512",
+    "C:\\Users\\barte\\.nuget\\packages\\system.servicemodel.http\\8.1.0\\system.servicemodel.http.8.1.0.nupkg.sha512",
+    "C:\\Users\\barte\\.nuget\\packages\\system.servicemodel.netframingbase\\8.1.0\\system.servicemodel.netframingbase.8.1.0.nupkg.sha512",
+    "C:\\Users\\barte\\.nuget\\packages\\system.servicemodel.nettcp\\8.1.0\\system.servicemodel.nettcp.8.1.0.nupkg.sha512",
+    "C:\\Users\\barte\\.nuget\\packages\\system.servicemodel.primitives\\8.1.0\\system.servicemodel.primitives.8.1.0.nupkg.sha512",
+    "C:\\Users\\barte\\.nuget\\packages\\system.servicemodel.security\\6.0.0\\system.servicemodel.security.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
